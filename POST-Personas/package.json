@@ -1,0 +1,17 @@
+{
+  "name": "POST-Personas",
+  "version": "1.0.0",
+  "description": "-Inserta un nuevo registro en la Tabla Starwars de DynamoDB",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.823.0",
+    "supertest": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

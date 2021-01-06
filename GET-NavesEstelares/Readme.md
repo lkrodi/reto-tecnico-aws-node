@@ -1,0 +1,2 @@
+-Obtienes datos de la api de Swapi utilizando su recurso: /starships
+-Transforma las propiedades del inglés al español mapeando toda la info.

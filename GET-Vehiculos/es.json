@@ -1,0 +1,66 @@
+[
+    {
+      "es": "nombre",
+      "principal": "name"
+    },
+    {
+      "es": "modelo",
+      "principal": "model"
+    },
+    {
+      "es": "manufacturado",
+      "principal": "manufacturer"
+    },
+    {
+      "es": "costo_creditos",
+      "principal": "cost_in_credits"
+    },
+    {
+      "es": "longitud",
+      "principal": "length"
+    },
+    {
+      "es": "velocidad_maxima_atomosfera",
+      "principal": "max_atmosphering_speed"
+    },
+    {
+      "es": "tripulacion",
+      "principal": "crew"
+    },
+    {
+      "es": "pasajeros",
+      "principal": "passengers"
+    },
+    {
+      "es": "capacidad_carga",
+      "principal": "cargo_capacity"
+    },
+    {
+      "es": "consumibles",
+      "principal": "consumables"
+    },
+    {
+      "es": "clase_vehiculo",
+      "principal": "vehicle_class"
+    },
+    {
+      "es": "pilotos",
+      "principal": "pilots"
+    },
+    {
+      "es": "peliculas",
+      "principal": "films"
+    },
+    {
+      "es": "fecha_registro",
+      "principal": "created"
+    },
+    {
+      "es": "fecha_actualizacion",
+      "principal": "edited"
+    },
+    {
+      "es": "url",
+      "principal": "url"
+    }
+]

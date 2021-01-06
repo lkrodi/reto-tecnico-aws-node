@@ -1,0 +1,66 @@
+[
+    {
+      "es": "nombre",
+      "principal": "name"
+    },
+    {
+      "es": "altura",
+      "principal": "height"
+    },
+    {
+      "es": "masa",
+      "principal": "mass"
+    },
+    {
+      "es": "color_pelo",
+      "principal": "hair_color"
+    },
+    {
+      "es": "color_piel",
+      "principal": "skin_color"
+    },
+    {
+      "es": "color_ojos",
+      "principal": "eye_color"
+    },
+    {
+      "es": "fecha_nacimiento",
+      "principal": "birth_year"
+    },
+    {
+      "es": "genero",
+      "principal": "gender"
+    },
+    {
+      "es": "mundo_natal",
+      "principal": "homeworld"
+    },
+    {
+      "es": "peliculas",
+      "principal": "films"
+    },
+    {
+      "es": "especies",
+      "principal": "species"
+    },
+    {
+      "es": "vehiculos",
+      "principal": "vehicles"
+    },
+    {
+      "es": "naves_estelares",
+      "principal": "starships"
+    },
+    {
+      "es": "fecha_registro",
+      "principal": "created"
+    },
+    {
+      "es": "fecha_actualizacion",
+      "principal": "edited"
+    },
+    {
+      "es": "url",
+      "principal": "url"
+    }
+]

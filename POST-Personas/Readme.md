@@ -1,0 +1,1 @@
+-Inserta un nuevo registro en la Tabla Starwars de DynamoDB

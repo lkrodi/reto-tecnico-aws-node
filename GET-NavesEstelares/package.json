@@ -1,0 +1,17 @@
+{
+  "name": "GET-NavesEstelares",
+  "version": "1.0.0",
+  "description": "-Obtienes datos de la api de Swapi utilizando su recurso: /starships\r -Transforma las propiedades del inglés al español mapeando toda la info.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "supertest": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
